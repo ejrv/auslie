@@ -1,16 +1,22 @@
-### Hi there 👋
+## My Badges
+![alt text](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/badge-arctic-code-vault-small.png)![alt text](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/badge-sponsors-small.png)![alt text](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/badge-mars-2020-small.png)
+[![Github Badge](https://img.shields.io/badge/-generic7-grey?style=flat&logo=github&logoColor=white&link=https://github.com/generic7/)](https://www.github.com/generic7/) <p align='left'>Welcome to my Official Github 😉</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=generic7 alt=generic7 /> </p>
 
-<!--
-**ekix7/ekix7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github stats](https://github-readme-stats.vercel.app/api?username=generic7&show_icons=true&include_all_commits=true)](https://github.com/generic7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=generic7&layout=compact)](https://github.com/generic7/github-readme-stats)
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+![Profile View Counter](https://komarev.com/ghpvc/?username=generic7)
+# Top 5 Badges That Will Take Your GitHub Repository to the Next Level
+## 1. GitHub Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=generic7&show_icons=true)
+## 2. Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=generic7&theme=blue-green)
+## 3. Contributors Badge
+![Your Repository's Stats](https://contrib.rocks/image?repo=generic7/Python)
+## 5. Profile View Counter
+![Profile View Counter](https://komarev.com/ghpvc/?username=generic7)
+### Repository View Counter - HITS
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/generic7/ivyx)
