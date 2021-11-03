@@ -1,6 +1,6 @@
 ## My Badges
 ![alt text](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/badge-arctic-code-vault-small.png)![alt text](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/badge-sponsors-small.png)![alt text](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/badge-mars-2020-small.png)
-[![Github Badge](https://img.shields.io/badge/-generic7-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ekix7/)](https://www.github.com/ekix7/) <p align='left'>Eckicsa Bliskik 😉</p>
+[![Github Badge](https://img.shields.io/badge/-generic7-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ekix7/)](https://www.github.com/ekix7/) <p align='left'> 😉</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ekix7 alt=ekix7 /> </p>
 
