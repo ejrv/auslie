@@ -4,8 +4,8 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=github alt=ekix7 /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ekix7&show_icons=true&include_all_commits=true)](https://github.com/ekix7/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekix7&layout=compact)](https://github.com/ekix7/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ekix7&show_icons=true&include_all_commits=true)](https://github.com/dhoseini/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekix7&layout=compact)](https://github.com/dhoseini/github-readme-stats)
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=dhoseini)
@@ -16,7 +16,5 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dhoseini&theme=blue-green)
 ## 3. Contributors Badge
 ![Your Repository's Stats](https://contrib.rocks/image?repo=dhoseini/Python)
-## 5. Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=dhoseini)
 ### Repository View Counter - HITS
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/microsoft/PowerToys)
