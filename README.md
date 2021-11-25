@@ -2,7 +2,7 @@
 ![alt text](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/badge-arctic-code-vault-small.png)![alt text](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/badge-sponsors-small.png)![alt text](https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/badge-mars-2020-small.png)
 [![Github Badge](https://img.shields.io/badge/-generic7-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ekix7/)](https://www.github.com/ekix7/) <p align='left'> 😉</p>
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=ekix7 alt=ekix7 /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=github alt=ekix7 /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ekix7&show_icons=true&include_all_commits=true)](https://github.com/ekix7/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekix7&layout=compact)](https://github.com/ekix7/github-readme-stats)
