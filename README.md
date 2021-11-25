@@ -19,4 +19,4 @@
 ## 5. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=dhoseini)
 ### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/dhoseini/ivyx)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/microsoft/PowerToys)
